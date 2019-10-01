@@ -7,7 +7,7 @@ NOTES and [TO DO]:
     - during events handling we do all of them "if" to get the chance to handle all of them
     - I define the board with the board structure and coloumn of last droped piece and last list that help me in droping pieces [ Important ]
     - for off diagonal winning he says main diagonal and vice versus because the board is reversed for the user interface
-    - 16/9 adding alpha beta .............. .................  it made the algo go deeper and became damen faster
+    - 16/9 adding alpha beta .............. .................  it made the algo go deeper and became damen faster.
 
 Questions :
     - why functions see the variables bellow it
